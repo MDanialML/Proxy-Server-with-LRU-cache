@@ -47,7 +47,6 @@ Semaphore value is: 4
 
  Configurable cache size
 
- Admin dashboard for monitoring connections and cache status
 
 🙋‍♂️ Author
 M Danial
